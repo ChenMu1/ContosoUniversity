@@ -65,3 +65,7 @@ C:\Users\muche\Source\Workspaces\ContosoUniversity\ContosoUniversity\ContosoUniv
 C:\Users\muche\Source\Workspaces\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 C:\Users\muche\Source\Workspaces\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\Users\muche\Source\Workspaces\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\muche\Source\Workspaces\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\muche\Source\Workspaces\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\muche\Source\Workspaces\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\muche\Source\Workspaces\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
